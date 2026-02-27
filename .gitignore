@@ -1,0 +1,12 @@
+# Never commit API keys or personal config
+.env
+secrets.json
+config.local.js
+
+# Google Apps Script local tooling
+.clasp.json
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
