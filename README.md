@@ -2,6 +2,9 @@
 
 A Google Apps Script that scans 1,200+ cryptocurrencies across CoinMarketCap and MEXC Futures, classifies them by accumulation pattern, and scores their volatility against a market-cap-normalised baseline — all written directly into a Google Sheet.
 
+
+![Project Thumbnail](CAS.png)
+
 ---
 
 ## What It Does
